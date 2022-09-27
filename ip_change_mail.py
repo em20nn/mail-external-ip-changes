@@ -59,7 +59,7 @@ while True:
             is_error=True
             time.sleep(120)
             first=False
-    elif ip_startup==ip:
+    elif ip_startup==ip!="ERROR":
         first=True
         time.sleep(120)
         continue
