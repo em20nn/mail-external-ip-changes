@@ -44,5 +44,6 @@ NO ARGUMENTS NEEDED
 ### Warnings
 
 Please make sure you change "email_sender" and "email_password" to your gmail and password. 
+
 For more please follow "https://towardsdev.com/using-python-to-send-email-using-gmail-38afce31174a" guide
 
