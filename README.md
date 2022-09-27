@@ -37,13 +37,15 @@ in CMD
 ~\> py ip_change_mail.py
 ```
 
-### Arguments
+## Arguments
 
 NO ARGUMENTS NEEDED
 
-### Warnings
+## Warnings
 
 Please make sure you change "email_sender" and "email_password" to your gmail and password. 
 
 For more please follow "https://towardsdev.com/using-python-to-send-email-using-gmail-38afce31174a" guide
+
+This script was made to last until stopped by the user. ctrl-c would kill the script.
 
